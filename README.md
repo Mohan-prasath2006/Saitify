@@ -1,16 +1,105 @@
-# React + Vite
+# 🎵 Saitify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern music streaming web application inspired by Spotify, built using **React**, **Vite**, **JavaScript**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Project Overview
 
-## React Compiler
+Saitify is a responsive music streaming interface that provides a clean and modern user experience inspired by Spotify. It demonstrates frontend development skills using React and Vite.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎵 Modern Spotify-inspired UI
+- 📱 Responsive Design
+- ⚡ Fast Performance with Vite
+- 🎨 Clean User Interface
+- 🔍 Easy Navigation
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```
+Saitify/
+│── public/
+│── src/
+│── package.json
+│── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/Mohan-prasath2006/Saitify.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshot
+
+> Add your project screenshot here.
+
+---
+
+## 🌐 Live Demo
+
+https://saitify.vercel.app
+
+---
+
+## 💻 GitHub Repository
+
+https://github.com/Mohan-prasath2006/Saitify
+
+---
+
+## 🎯 Future Improvements
+
+- Music Player
+- User Authentication
+- Playlist Management
+- Search Songs
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+**Mohan Prasath B**
+
+GitHub: https://github.com/Mohan-prasath2006
+
+---
+
+⭐ If you like this project, don't forget to give it a star.
