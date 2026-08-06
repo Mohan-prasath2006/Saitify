@@ -74,7 +74,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-https://saitify.vercel.app
+https://saitify-musicplayer.netlify.app/
 
 ---
 
