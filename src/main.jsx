@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 import PlayerContextProvider from './context/PlayerContext.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <BrowserRouter>
+    <BrowserRouter basename="/Saitify">
     <PlayerContextProvider>
     <App />
     </PlayerContextProvider>
